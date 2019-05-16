@@ -38,7 +38,4 @@ def main():
     print("================== SET ===================") #la SET natwanyn index bkayn chwnka zhamarakan randomn
     qalb ={2,3,4,5,6}
     print(qalb,type(qalb))
-
-
-
 if __name__ == '__main__':main()
