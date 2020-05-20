@@ -22,7 +22,7 @@ def chwarbara_xat():
 def helly_sarawa_dwbara(): #ama helly yakamy sarawa drwst akat lagall ryzy | ka
     dwbara_zayd_naqs()
     chwarbara_xat()
-
+#kra
 def anjam_hamwy(): #ama draw kay axyr drwst akat
     helly_sarawa_dwbara()
     helly_sarawa_dwbara()
