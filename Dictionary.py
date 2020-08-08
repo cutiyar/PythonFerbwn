@@ -11,14 +11,4 @@ def main():
     barrez.clear() #Ba Clear hamw dict yaka pak dakayatwa.
     print(barrez, type(barrez))
 
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':main()

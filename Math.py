@@ -14,10 +14,4 @@ def main():
 
     m=x+1
     print(m)
-
-
-
-
-
-
 if __name__ == '__main__':main()

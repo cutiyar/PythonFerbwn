@@ -23,6 +23,6 @@ def main():
     b=0
     not (b)
     print(b)
-
-
+    False & True # Ama bitwise a & , la bitwise bit ba bit ta3amwly lagall akat.
+    
 if __name__ == '__main__':main()

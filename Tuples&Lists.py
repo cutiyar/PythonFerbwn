@@ -31,7 +31,7 @@ def main():
     print("================= String ================")
     esht="Quality Oontrol"
     print(esht[0:2]) # ta dwam danay krd .
-
+    print(esht[2:3]) # 2 agretawa bas 3 nagretawa
 
     #lera basy Set akayn
 
