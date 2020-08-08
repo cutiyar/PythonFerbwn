@@ -3,7 +3,7 @@ def main():
     temen=(23,24,25,26) #tuples immutable wata natwanre daskary bkre hy4y bo zya bkre.
     print(temen,type(temen)) #lera peman alle jory tuples a chwnka naw kawnaaya.
     print(temen[0]) #lera bas yakam jmare print akat.
-    print(temen[0:3])  # lera la 0 print aka ta 2 3 yaka print naka wata ta 2 brro 3 shmwl naka pey alle 3 xtwa brro
+    print(temen[0:3])  # lera la 0 print aka ta 2, 3 yaka print naka wata ta 2 brro 3 shmwl naka pey alle 3 xtwa brro
     # wate 0,1,2.
 
     #temen.index()
@@ -18,7 +18,7 @@ def main():
     temeni=[12,13,14,15]
     temeni.append(34)  #lera twanyman daskary list aka bkayn w basheky try bo zya bkayn.
     temeni.insert(2,22) #lera pey allen la fllan shwen fllan shtman bo zya bka ba insert.
-    temeni.pop(2)  #zhmara 2 y ryzakadar akat agar dyary nakay axyr dana dar akat.
+    temeni.pop(2)  #zhmara 2 y ryzaka dar akat agar dyary nakay axyr dana dar akat.
     temeni.remove(12)
     temeni.extend([29,34,55])  # bama atwany chan danayak zya bkay bo listaka
     #max() , min() , sum()  #datwany amanash bakar beny.
