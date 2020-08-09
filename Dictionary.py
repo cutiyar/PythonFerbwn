@@ -4,11 +4,10 @@ def main():
     #atwany ba hsewaya trysh dic drwst bkay wak amay xwarawa:
     barrez= dict(naw="jwtiyar")
     barrez['esh']="krekar" # Atwany danayak zyad bkay bo dict. labaraway mutable.
-    del barrez['esh']
 
     print(barrez,type(barrez))
     print(barrez['naw'])
-    barrez.clear() #Ba Clear hamw dict yaka pak dakayatwa.
-    print(barrez, type(barrez))
+    #barrez.clear() #Ba Clear hamw dict yaka pak dakayatwa.
+    #print(barrez, type(barrez))
 
 if __name__ == '__main__':main()

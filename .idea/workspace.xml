@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5562bea-13ef-49e0-837b-5aa0cc5df3e7" name="Default Changelist" comment="" />
+    <list default="true" id="e5562bea-13ef-49e0-837b-5aa0cc5df3e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test-Xom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Priority.py" beforeDir="false" afterPath="$PROJECT_DIR$/Priority.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Slice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +29,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="ProjectId" id="1fo8yLNeJaBbdyhgFJ3BxgKlHd6" />
   <component name="ProjectViewState">
@@ -94,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test-Xom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test-Xom" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonFerbwn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +157,6 @@
       <list>
         <item itemvalue="Python.ZaydNaqs" />
         <item itemvalue="Python.Variables" />
-        <item itemvalue="Python.Test-Xom" />
         <item itemvalue="Python.Slice" />
         <item itemvalue="Python.Logic" />
       </list>
@@ -197,17 +192,75 @@
       <option name="project" value="LOCAL" />
       <updated>1596888534523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New">
+      <created>1596968154714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596968154714</updated>
+    </task>
+    <task id="LOCAL-00005" summary="xom">
+      <created>1596968281254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596968281254</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit">
+      <created>1596968306630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596968306630</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit">
+      <created>1596969171313</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596969171313</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -216,77 +269,95 @@
     <MESSAGE value="چەن دانەیەکی نوێ" />
     <MESSAGE value="چاککردنی Logic.py" />
     <MESSAGE value="New" />
-    <option name="LAST_COMMIT_MESSAGE" value="New" />
+    <MESSAGE value="xom" />
+    <MESSAGE value="edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596969062089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596969062089" />
     <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596965386560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965386560" />
-    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog" timestamp="1596965687814">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596969169229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965687814" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596965505824">
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596969169229" />
+    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog" timestamp="1596968921016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596965505824" />
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1596958876545">
+    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1596968921016" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596969058747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596958876545" />
-    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1596958876545">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596969058747" />
+    <state width="643" height="204" key="GridCell.Tab.0.bottom" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596958876545" />
-    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1596958876545">
+    <state width="643" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="643" height="204" key="GridCell.Tab.0.center" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596958876545" />
-    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1596958876545">
+    <state width="643" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="643" height="204" key="GridCell.Tab.0.left" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596958876545" />
-    <state width="1308" height="204" key="GridCell.Tab.1.bottom" timestamp="1596958471151">
+    <state width="643" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="643" height="204" key="GridCell.Tab.0.right" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596958471151" />
-    <state width="1308" height="204" key="GridCell.Tab.1.center" timestamp="1596958471151">
+    <state width="643" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="643" height="204" key="GridCell.Tab.1.bottom" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596958471151" />
-    <state width="1308" height="204" key="GridCell.Tab.1.left" timestamp="1596958471151">
+    <state width="643" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="643" height="204" key="GridCell.Tab.1.center" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596958471151" />
-    <state width="1308" height="204" key="GridCell.Tab.1.right" timestamp="1596958471151">
+    <state width="643" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="643" height="204" key="GridCell.Tab.1.left" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596958471151" />
+    <state width="643" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="643" height="204" key="GridCell.Tab.1.right" timestamp="1596969230499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state x="460" y="84" key="RollbackChangesDialog" timestamp="1596968916020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596968916020" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1596965718843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596965718843" />
+    <state x="110" y="120" width="1146" height="488" key="ShowDiffWithBranchDialog" timestamp="1596968921016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="ShowDiffWithBranchDialog/0.0.1366.728@0.0.1366.728" timestamp="1596968921016" />
     <state x="569" y="278" key="VCS.EditChangelistDialog" timestamp="1596958777779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1596958777779" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596968086140">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596969471590">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596968086140" />
-    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596877960327">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596969471590" />
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596969473356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596877960327" />
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596969473356" />
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596965415136">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965415136" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596965445723">
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596969152955">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1596965445723" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1596969152955" />
     <state x="245" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596958185734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -299,6 +370,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="457" y="263" key="git4idea.ui.GitStashDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965565701" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596968981445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596968981445" />
     <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1596965375350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

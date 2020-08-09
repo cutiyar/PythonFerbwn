@@ -8,7 +8,7 @@ def main():
     print(x)
     x = lis[0:4] = (0, 0, 0, 0)
     print(x)
-    print("hi")
+
     lis[:]=range(100)
     print(lis)
     lis[0:4] = (0, 0, 0, 0) # Bam Shewaya datwany shwenakan jegorrke pe bkayt.
