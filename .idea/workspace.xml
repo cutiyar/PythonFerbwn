@@ -9,12 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5562bea-13ef-49e0-837b-5aa0cc5df3e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test-Xom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Priority.py" beforeDir="false" afterPath="$PROJECT_DIR$/Priority.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test-Xom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test-Xom.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596969171313</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="edit">
+      <created>1596969483723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596969483723</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +255,19 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -282,10 +296,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965386560" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596969169229">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596969482419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596969169229" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596969482419" />
     <state x="110" y="120" width="1146" height="488" key="DiffContextDialog" timestamp="1596968921016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -294,22 +308,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596969058747" />
-    <state width="643" height="204" key="GridCell.Tab.0.bottom" timestamp="1596969230499">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1596970158993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
-    <state width="643" height="204" key="GridCell.Tab.0.center" timestamp="1596969230499">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1596970158993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
-    <state width="643" height="204" key="GridCell.Tab.0.left" timestamp="1596969230499">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1596970158993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
-    <state width="643" height="204" key="GridCell.Tab.0.right" timestamp="1596969230499">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1596970158993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
     <state width="643" height="204" key="GridCell.Tab.1.bottom" timestamp="1596969230499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -342,10 +356,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1596958777779" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596969471590">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596969528255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596969471590" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596969528255" />
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596969473356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
