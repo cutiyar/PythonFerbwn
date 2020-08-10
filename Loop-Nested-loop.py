@@ -7,4 +7,5 @@ def main():
         while(j<5): #Lera bo her i yek 5 j print ekat chwnka while dwam besheka la while beshy yekem wate Nested.
             print(("j={}").format(j))
             j+=1
+        print("Her bzhyt")
 if __name__ == '__main__':main()
