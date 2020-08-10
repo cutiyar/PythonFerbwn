@@ -1,5 +1,5 @@
 def main():
-    print("Dawaname desty p[ekrd")
+    print("Dawaname desty pekrd")
     i=0
     while(i<100):
         if (i% 4==0): #Bem sheweye detwany if bkeyte naw while, lem nmwne peman wtwa ew jmarane print bka
