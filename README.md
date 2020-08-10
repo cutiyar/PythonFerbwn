@@ -1,4 +1,4 @@
 # PythonFerbwn
-taze ferbwn
-hy4 nya ta README be :)
-Bellam Detwanyt swdyan le bbynyt bo ashnabwn ba Python.
+قۆناغی فێربوون
+هیچ نیە تا ڕێدمی هەبێت.
+بەڵام دەتوانیت سودیان لێ ببینیت بۆ ئاشنابوون بە پایسۆن.
