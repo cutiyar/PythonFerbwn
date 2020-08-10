@@ -9,7 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5562bea-13ef-49e0-837b-5aa0cc5df3e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Test-Xom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test-Xom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop-Controls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop-Nested-loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +46,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.Test-Xom">
-    <configuration name="Logic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Loop-Controls">
+    <configuration name="Loop-Controls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFerbwn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loop-Controls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Slice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Loop-Nested-loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFerbwn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Slice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loop-Nested-loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WhileLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFerbwn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WhileLoop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,12 +152,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="loops_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFerbwn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Loop-Controls" />
+        <item itemvalue="Python.Loop-Nested-loop" />
+        <item itemvalue="Python.WhileLoop" />
+        <item itemvalue="Python.loops_for" />
         <item itemvalue="Python.ZaydNaqs" />
-        <item itemvalue="Python.Variables" />
-        <item itemvalue="Python.Slice" />
-        <item itemvalue="Python.Logic" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596969483723</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="edit">
+      <created>1596970292247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596970292247</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +321,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="edit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1597053814785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1597053814785" />
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596969062089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -296,10 +333,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965386560" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596969482419">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1596970290843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596969482419" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596970290843" />
     <state x="110" y="120" width="1146" height="488" key="DiffContextDialog" timestamp="1596968921016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -308,38 +345,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596969058747" />
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1596970158993">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1597057020427">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1596970158993">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597057020427" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1597057020426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1596970158993">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597057020426" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1597057020426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1596970158993">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597057020426" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1597057020426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596970158993" />
-    <state width="643" height="204" key="GridCell.Tab.1.bottom" timestamp="1596969230499">
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597057020426" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1597056230406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
-    <state width="643" height="204" key="GridCell.Tab.1.center" timestamp="1596969230499">
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597056230406" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1597056230406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
-    <state width="643" height="204" key="GridCell.Tab.1.left" timestamp="1596969230499">
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597056230406" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1597056230406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
-    <state width="643" height="204" key="GridCell.Tab.1.right" timestamp="1596969230499">
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597056230406" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1597056230406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596969230499" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597056230406" />
     <state x="460" y="84" key="RollbackChangesDialog" timestamp="1596968916020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -356,10 +393,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1596958777779" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596969528255">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597057066838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596969528255" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597057066838" />
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596969473356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -368,14 +405,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965415136" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596969152955">
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597057047846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1596969152955" />
-    <state x="245" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596958185734">
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1597057047846" />
+    <state x="245" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597055760938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="245" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1596958185734" />
+    <state x="245" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1597055760938" />
     <state x="482" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596965530743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -384,13 +421,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="457" y="263" key="git4idea.ui.GitStashDialog/0.0.1366.728@0.0.1366.728" timestamp="1596965565701" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596968981445">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597055091961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596968981445" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597055091961" />
     <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1596965375350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="513" y="155" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1596965375350" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loops_for.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Loop-Nested-loop.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
