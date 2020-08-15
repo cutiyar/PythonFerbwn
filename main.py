@@ -10,3 +10,5 @@ def main():
 print("chonn4")
 #lam nmwnaya chwnka am print a lasar function namawa w chwata condition aka boya ama axwenetawa enja acheta sar function aka la dway am print ya.
 if __name__ == '__main__':main()
+def main():
+if __name__ == '__main__':main()
