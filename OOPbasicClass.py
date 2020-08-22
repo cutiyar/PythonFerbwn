@@ -6,10 +6,10 @@ class Car:
 
 def main():
     mycar=Car() #eme kopyeke le class eke (instance)
-    mycar.SetOwener("ahmed")
+    mycar.SetOwener("Gara")
     mycar.GetOwner() #Eme bo bangkrdny class e serekyekeye.
     kerimcar = Car() #besheky trt zyad krd bo kaseky tr beheman taybetmendy class y sereky.
-    kerimcar.SetOwener("kerim")
+    kerimcar.SetOwener("Nali")
     kerimcar.GetOwner()
 
 
