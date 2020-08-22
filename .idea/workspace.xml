@@ -8,17 +8,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5562bea-13ef-49e0-837b-5aa0cc5df3e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPNewModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPOverride.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPconstructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPinheritcance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonFerbwn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonFerbwn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e5562bea-13ef-49e0-837b-5aa0cc5df3e7" name="Default Changelist" comment="Babety berew kotayi">
+      <change afterPath="$PROJECT_DIR$/HttpCalls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zanyary.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPbasicClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPbasicClass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.OOPNewModel">
+  <component name="RunManager" selected="Python.tkinter">
+    <configuration name="HttpCalls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFerbwn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HttpCalls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="OOPNewModel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFerbwn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,48 +111,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOPconstructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFerbwn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPconstructor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OOPinheritcance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFerbwn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPinheritcance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Test-Xom" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonFerbwn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFerbwn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +144,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFerbwn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tkinter" />
+        <item itemvalue="Python.HttpCalls" />
+        <item itemvalue="Python.db" />
         <item itemvalue="Python.OOPNewModel" />
         <item itemvalue="Python.OOPOverride" />
-        <item itemvalue="Python.OOPinheritcance" />
-        <item itemvalue="Python.kwargs" />
-        <item itemvalue="Python.OOPconstructor" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597058362113</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Babety berew kotayi">
+      <created>1598105118597</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598105118597</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,7 +355,8 @@
     <MESSAGE value="xom" />
     <MESSAGE value="edit" />
     <MESSAGE value="Babety tr leser Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Babety tr leser Loop" />
+    <MESSAGE value="Babety berew kotayi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Babety berew kotayi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1597053814785">
@@ -372,6 +375,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596969062089" />
+    <state x="385" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598106439511">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="385" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.716@0.23.1280.716" timestamp="1598106439511" />
     <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596965386560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -392,38 +399,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596969058747" />
-    <state width="1259" height="174" key="GridCell.Tab.0.bottom" timestamp="1598104966882">
-      <screen x="0" y="23" width="1280" height="716" />
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom" timestamp="1598109499660">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="1286" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597478790091" />
     <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1598032527160" />
     <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1598035048465" />
     <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1598033667849" />
-    <state width="1259" height="174" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1598104966882" />
-    <state width="1259" height="174" key="GridCell.Tab.0.center" timestamp="1598104966882">
-      <screen x="0" y="23" width="1280" height="716" />
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1598109030056" />
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1598109499660" />
+    <state width="1259" height="174" key="GridCell.Tab.0.center" timestamp="1598109499659">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="1286" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597478790091" />
     <state width="1259" height="176" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1598032527158" />
     <state width="1259" height="176" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1598035048464" />
     <state width="1259" height="176" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1598033667848" />
-    <state width="1259" height="174" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1598104966882" />
-    <state width="1259" height="174" key="GridCell.Tab.0.left" timestamp="1598104966881">
-      <screen x="0" y="23" width="1280" height="716" />
+    <state width="1259" height="174" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1598109030055" />
+    <state width="1259" height="174" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1598109499659" />
+    <state width="1259" height="174" key="GridCell.Tab.0.left" timestamp="1598109499659">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="1286" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597478790090" />
     <state width="1259" height="176" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1598032527157" />
     <state width="1259" height="176" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1598035048463" />
     <state width="1259" height="176" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1598033667848" />
-    <state width="1259" height="174" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1598104966881" />
-    <state width="1259" height="174" key="GridCell.Tab.0.right" timestamp="1598104966882">
-      <screen x="0" y="23" width="1280" height="716" />
+    <state width="1259" height="174" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1598109030054" />
+    <state width="1259" height="174" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1598109499659" />
+    <state width="1259" height="174" key="GridCell.Tab.0.right" timestamp="1598109499660">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="1286" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597478790091" />
     <state width="1259" height="176" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1598032527159" />
     <state width="1259" height="176" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1598035048464" />
     <state width="1259" height="176" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1598033667849" />
-    <state width="1259" height="174" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1598104966882" />
+    <state width="1259" height="174" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1598109030055" />
+    <state width="1259" height="174" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1598109499660" />
     <state width="1259" height="219" key="GridCell.Tab.1.bottom" timestamp="1598104248830">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
@@ -465,10 +476,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1596958777779" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597058367659">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="258" y="118" key="Vcs.Push.Dialog.v2" timestamp="1598105129095">
+      <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597058367659" />
+    <state x="258" y="118" key="Vcs.Push.Dialog.v2/0.23.1280.716@0.23.1280.716" timestamp="1598105129095" />
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596969473356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
